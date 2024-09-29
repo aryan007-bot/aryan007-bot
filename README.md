@@ -2,8 +2,7 @@
 <div align="center">
   <h1 style="font-size: 48px; color: #ffcc00; text-shadow: 0 0 20px #ffcc00;">👋 Hi, I'm Aryan Dagar!</h1>
   <h2 style="font-size: 36px; color: white;">🌟 A passionate Frontend Developer focused on creating beautiful and responsive web applications.</h2>
-  <img src="![68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d38383](https://github.com/user-attachments/assets/ba5a4b48-6cde-4aef-aff2-55aa1a37ea0a)
-" alt="My Workspace" width="600" />  <!-- Replace with your image URL -->
+  <img src="https://raw.githubusercontent.com/aryan007-bot/anime_vault/main/path/to/your/image.gif" alt="My Workspace" width="600" />  <!-- Replace with your image URL -->
 </div>
 
 ---
@@ -57,3 +56,4 @@
 <div align="center">
   <h3>🚀 Let's build something amazing together!</h3>
 </div>
+
