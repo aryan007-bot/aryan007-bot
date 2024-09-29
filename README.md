@@ -1,14 +1,29 @@
-<!-- Header Section with Animated Name -->
+<!-- Moving Name with Color Animation -->
 <div align="center">
-  <h1 style="font-size: 48px;">Hi, I'm Aryan Dagar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-  <p style="font-size: 20px;">A Frontend Developer delving into Backend Development, DevOps, and Blockchain</p>
+  <h1>
+    <a href="" style="text-decoration:none; color:#FFCC00; font-size:48px; font-weight: bold;">
+      <span style="display:inline-block; animation:slide 5s infinite; background: linear-gradient(270deg, #ffcc00, #ff66cc, #66ccff); background-size: 400% 400%; color: white; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Hi, I'm Aryan Dagar!</span>
+    </a>
+  </h1>
+  <style>
+    @keyframes slide {
+      0% { transform: translateX(-200%); }
+      50% { transform: translateX(0%); }
+      100% { transform: translateX(200%); }
+    }
+  </style>
+
+  <!-- Enhanced Description Line -->
+  <p style="font-size: 22px; color:#00FFCC; text-shadow: 1px 1px 4px #00FFCC;">
+    A Frontend Developer diving into Backend, DevOps, and Blockchain.
+  </p>
 </div>
 
 ---
 
 <div align="center">
-  <!-- Developer-themed moving image -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer at Work" width="600px"/>
+  <!-- More attractive animated image -->
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Developer Coding GIF" width="600px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
 </div>
 
 ---
@@ -43,9 +58,16 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=aryan007-bot&show_icons=true&theme=tokyonight" alt="Aryan's GitHub stats" />
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan007-bot&layout=compact&theme=tokyonight" alt="Top Languages" />
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan007-bot&theme=tokyonight" alt="Aryan's GitHub Streak" />
 </p>
 
 ---
