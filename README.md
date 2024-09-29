@@ -12,8 +12,8 @@
 }
 </style>
 
-<!-- Enhanced Description Line with Emojis -->
-<p align="center" style="font-size: 24px; font-weight: bold; color:#00FFCC;">
+<!-- Enhanced Description Line with Emojis and Color -->
+<p align="center" style="font-size: 24px; font-weight: bold; color:#00FFCC; animation: glow 1s infinite alternate;">
   A Frontend Developer 💻 transitioning into Backend ⚙️, mastering DevOps 🛠️, and diving into Blockchain development 🔗!
 </p>
 
