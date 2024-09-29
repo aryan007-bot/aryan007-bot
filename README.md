@@ -38,21 +38,14 @@
 
 ---
 
-## 📫 Connect with Me
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dagararyan947@fmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aryan-dagar-5b7a761b1)
+## 🎮 Projects
+### 🐍 Snake Game
+This is a classic Snake Game built with JavaScript. Navigate the snake to collect food and grow in length. Avoid colliding with the walls or yourself!
 
----
+#### Demo
+You can check out the live demo [here](https://your-live-demo-link.com) <!-- Replace with your live demo link -->
 
-## ⚡ Fun Facts
-💡 I love automating workflows to enhance productivity.  
-🎨 I have a passion for graphic design!  
-🌍 Always looking for new challenges and projects.  
-✨ I enjoy collaborating with diverse teams and learning from others.  
-🤖 Passionate about AI and its role in the future of technology.
-
----
-
-<div align="center">
-  <h3>🚀 Let's build something amazing together!</h3>
-</div>
+#### How to Run Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/aryan007-bot/snake-game.git
