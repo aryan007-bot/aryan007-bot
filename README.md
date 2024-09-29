@@ -1,20 +1,21 @@
 <!-- Simple Name Text -->
 <div align="center">
-  <h1 style="font-size: 48px; font-weight: bold; color: #00FFCC;">
-    👨‍💻 Aryan Dagar 💻
+  <h1 style="font-size: 50px; font-weight: bold; color: #00FFCC; text-shadow: 2px 2px 5px #000;">
+    👋 Hi, I'm Aryan Dagar 💻
   </h1>
 </div>
 
 <!-- Enhanced Description Line with Emojis -->
-<p align="center" style="font-size: 24px; font-weight: bold; color:#00FFCC;">
-  A Frontend Developer 💻 transitioning into Backend ⚙️, mastering DevOps 🛠️, and diving into Blockchain development 🔗!
+<p align="center" style="font-size: 26px; font-weight: bold; color: #00FFCC; text-shadow: 1px 1px 5px #000;">
+  🌟 **Innovative Frontend Developer** 💻 | **Aspiring Backend Engineer** ⚙️ | **DevOps Enthusiast** 🛠️ | **Blockchain Innovator** 🔗
 </p>
 
 ---
 
 <!-- Developer-Themed Animated Image -->
-![68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d38383](https://github.com/user-attachments/assets/f34c1096-5bd1-447f-851b-83ddaebaf989)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f34c1096-5bd1-447f-851b-83ddaebaf989" alt="Integrated Developer Theme" width="600px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+</div>
 
 ---
 
@@ -50,13 +51,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=aryan007-bot&show_icons=true&theme=tokyonight" alt="Aryan's GitHub stats" />
-  
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan007-bot&layout=compact&theme=tokyonight" alt="Top Languages" />
-  
-  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan007-bot&theme=tokyonight" alt="Aryan's GitHub Streak" />
 </p>
 
