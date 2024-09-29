@@ -1,33 +1,31 @@
 <!-- Moving Name with Color Animation-like Effect -->
 <div align="center">
   <h1>
-    <img src="https://raw.githubusercontent.com/aryan007-bot/anime_vault/main/path/to/your/animated_text.gif" alt="Aryan Dagar" width="600px"/>
+    <img src="https://raw.githubusercontent.com/aryan007-bot/anime_vault/main/path/to/your/animated_text.gif" alt="Aryan Dagar" width="600px" />
   </h1>
 
-  <!-- Enhanced Description Line -->
+  <!-- Enhanced Description Line with Emojis -->
   <p style="font-size: 24px; font-weight: bold; color:#00FFCC;">
-    🚀 A Frontend Developer diving deep into Backend, mastering DevOps, and preparing to revolutionize with Blockchain technology!
+    👨‍💻 A Frontend Developer 💻 transitioning into Backend ⚙️, mastering DevOps 🛠️, and diving into Blockchain development 🔗!
   </p>
 </div>
 
 ---
 
-<!-- Developer-Themed Image -->
+<!-- Developer-Themed Image (Blockchain, DevOps, Web Development) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aryan007-bot/anime_vault/main/path/to/your/developer-image.gif" alt="Developer Workspace" width="600px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+  <img src="https://path.to/integrated/developer-image.gif" alt="Integrated Developer Theme" width="600px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 </div>
 
 ---
 
 ## 🙋‍♂️ About Me
 - 🌱 Currently learning **Backend Development** and **DevOps**.
-- 🚀 Future goals include diving into **Blockchain Development**.
+- 🔗 Interested in **Blockchain Development** for future projects.
 - 🎓 Studying **Computer Science**.
 - 👨‍💻 Passionate about **Frontend Development**, focused on creating responsive and beautiful web apps.
 - 🎨 Enjoys **Graphic Design** and **Gaming** as hobbies.
 - 📫 How to reach me: **dagararyan947@gmail.com**
-
-  You can also connect with me on [Instagram](https://www.instagram.com/_aryan_dagar001?igsh=MWlmcjR2Y3pxYWNhaA==).
 
 ---
 
