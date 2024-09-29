@@ -1,7 +1,7 @@
 <!-- Header Section with Animated Name -->
 <div align="center">
   <h1 style="font-size: 48px;">Hi, I'm Aryan Dagar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-  <p style="font-size: 20px;">A passionate Frontend Developer creating stunning and responsive web experiences</p>
+  <p style="font-size: 20px;">A Frontend Developer delving into Backend Development, DevOps, and Blockchain</p>
 </div>
 
 ---
@@ -14,10 +14,11 @@
 ---
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **Cloud Architecture, Systems Design, and AI**.
+- 🌱 Currently learning **Backend Development** and **DevOps**.
+- 🚀 Future goals include diving into **Blockchain Development**.
 - 🎓 Studying **Computer Science**.
-- 👨‍💻 I’m passionate about **Frontend Development**, focusing on crafting beautiful web applications.
-- 🎨 I enjoy **Graphic Design** and **Gaming** as hobbies.
+- 👨‍💻 Passionate about **Frontend Development**, focused on creating responsive and beautiful web apps.
+- 🎨 Enjoys **Graphic Design** and **Gaming** as hobbies.
 - 📫 How to reach me: **dagararyan947@gmail.com**
 
 ---
@@ -30,23 +31,14 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
 </p>
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How I build my personal portfolio website](#)
-- [Best practices for a clean and scalable frontend architecture](#)
-- [Understanding the virtual DOM in React](#)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More blog posts...](#)
 
 ---
 
