@@ -1,44 +1,50 @@
-<!-- Animated Name -->
-<div align="center">
-  <h1 style="font-size: 48px; color: #ffcc00; text-shadow: 0 0 20px #ffcc00;">👋 Hi, I'm Aryan Dagar!</h1>
-  <h2 style="font-size: 36px; color: white;">🌟 A passionate Frontend Developer and UX/UI Designer</h2>
-  <img src="https://your-image-url.png" alt="My Workspace" width="600" />
-</div>
+# 👋 Hi, I'm Aryan Dagar!
+### 🌟 A passionate Frontend Developer focused on creating beautiful and responsive web applications.
 
-<!-- About Me -->
-### About Me
-- 🤔 Exploring new frontend technologies and design principles.
-- 🎓 Currently diving into backend development and blockchain technologies.
-- ✍️ Enthusiast for crafting engaging user experiences.
+![My Workspace](https://your_image_url_here)
 
-<!-- My Tech Stack -->
-### 🛠 My Tech Stack
-**Languages:**
-- 💻 JavaScript
-- 🌐 HTML
-- 🎨 CSS
+---
 
-**Frameworks:**
-- ⚛️ React
-- ⚙️ Next.js
+## 👨🏻‍💻 About Me
+🤔 Exploring new frontend technologies and design principles.  
+🎓 Continuously improving my skills in web development.  
+🌱 Currently diving deeper into frameworks like React and Next.js.  
+✍️ Enthusiast for crafting engaging user experiences.  
+🛠️ Learning backend development and DevOps.  
+🔗 Interested in blockchain development and its applications.  
 
-**Tools:**
-- 🖥 Visual Studio Code
-- 🔧 Git
-- 📊 Markdown
+---
 
-<!-- Connect with Me -->
-### 📫 Connect with Me
-- 📧 [Email Me](mailto:your-email@example.com)
-- 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/aryan-dagar-5b7a761b1)
+## 🛠 My Tech Stack
+### Languages
+💻 JavaScript  
+🌐 HTML  
+🎨 CSS  
 
-<!-- Fun Facts -->
-### ⚡ Fun Facts
-- 💡 I enjoy automating workflows to enhance productivity.
-- 🎮 Gaming and graphic design are my favorite hobbies!
-- 🌍 Always looking for new challenges and projects.
+### Frameworks
+⚛️ React  
+⚙️ Next.js  
 
-<!-- Footer -->
-<div align="center">
-  <h3>🚀 Let's build something amazing together!</h3>
-</div>
+### Tools
+🖥 Visual Studio Code  
+🔧 Git  
+📊 Markdown  
+
+---
+
+## 📫 Connect with Me
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dagararyan947@fmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aryan-dagar-5b7a761b1)
+
+---
+
+## ⚡ Fun Facts
+💡 I love automating workflows to enhance productivity.  
+🎮 Gaming and graphic design are my favorite hobbies!  
+🌍 Always on the lookout for new challenges and projects.  
+✨ I enjoy collaborating with diverse teams and learning from others.  
+🤖 Passionate about AI and its role in the future of technology.
+
+---
+
+🚀 Let's build something amazing together!
