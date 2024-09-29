@@ -1,72 +1,72 @@
-<!-- Animated Name -->
+<!-- Header Section with Animated Name -->
 <div align="center">
-  <h1 style="font-size: 48px; color: #ffcc00; text-shadow: 0 0 20px #ffcc00;">👋 Hi, I'm Aryan Dagar!</h1>
-  <h2 style="font-size: 36px; color: white;">🌟 A passionate Frontend Developer focused on creating beautiful and responsive web applications.</h2>
-  <img src="https://raw.githubusercontent.com/aryan007-bot/anime_vault/main/path/to/your/image.gif" alt="My Workspace" width="600" />  <!-- Replace with your image URL -->
+  <h1 style="font-size: 48px;">Hi, I'm Aryan Dagar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+  <p style="font-size: 20px;">A passionate Frontend Developer creating stunning and responsive web experiences</p>
 </div>
 
 ---
 
-## 👨🏻‍💻 About Me
-🤔 Exploring new technologies and developing software solutions and quick hacks.  
-🎓 Studying Computer Science at [Your University] (optional).  
-🌱 Learning more about Cloud Architecture, Systems Design, and Artificial Intelligence.  
-✍️ Pursuing Graphic Design and Gaming as hobbies/side hustles.  
+<div align="center">
+  <!-- Replace with your custom image -->
+  <img src="https://raw.githubusercontent.com/devwithzain/devwithzain/main/code.gif" alt="Coding GIF" width="400px"/>
+</div>
 
 ---
 
-## 🛠 My Tech Stack
-### Languages
-💻 JavaScript  
-🌐 HTML  
-🎨 CSS  
-🐍 Python  
-
-### Frameworks
-⚛️ React  
-⚙️ Next.js  
-🗄 Node.js  
-
-### Databases
-🛢 MongoDB  
-🛢 PostgreSQL  
-
-### Tools
-🔧 Git  
-🔧 GitHub  
-⚙️ Docker  
-📊 Markdown  
-🖥 Visual Studio Code  
-🖥 Illustrator  
-🖥 Photoshop  
+## 🙋‍♂️ About Me
+- 🌱 I’m currently learning **Cloud Architecture, Systems Design, and AI**.
+- 🎓 Studying **Computer Science**.
+- 👨‍💻 I’m passionate about **Frontend Development**, focusing on crafting beautiful web applications.
+- 🎨 I enjoy **Graphic Design** and **Gaming** as hobbies.
+- 📫 How to reach me: **dagararyan947@gmail.com**
 
 ---
 
-## 🎮 Projects
-### 🐍 Snake Game
-This is a classic Snake Game built with JavaScript. Navigate the snake to collect food and grow in length. Avoid colliding with the walls or yourself!
+## 🚀 Languages and Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+</p>
 
-#### Demo
-You can check out the live demo [here](https://your-live-demo-link.com) <!-- Replace with your live demo link -->
+---
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [How I build my personal portfolio website](#)
+- [Best practices for a clean and scalable frontend architecture](#)
+- [Understanding the virtual DOM in React](#)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [More blog posts...](#)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan007-bot&show_icons=true&theme=tokyonight" alt="Aryan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan007-bot&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📫 Connect with Me
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dagararyan947@fmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aryan-dagar-5b7a761b1)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/yourusername) <!-- Replace with your Instagram link -->
-
----
-
-## ⚡ Fun Facts
-💡 I love automating workflows to enhance productivity.  
-🎨 I have a passion for graphic design!  
-🌍 Always looking for new challenges and projects.  
-✨ I enjoy collaborating with diverse teams and learning from others.  
-🤖 Passionate about AI and its role in the future of technology.
+<p align="left">
+  <a href="mailto:dagararyan947@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aryan-dagar-5b7a761b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/yourusername/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+</p>
 
 ---
 
 <div align="center">
-  <h3>🚀 Let's build something amazing together!</h3>
+  <h3>💡 “Strive not to be a success, but rather to be of value.”</h3>
 </div>
