@@ -7,8 +7,8 @@
 ---
 
 <div align="center">
-  <!-- Replace with your custom image -->
-  <img src="https://raw.githubusercontent.com/devwithzain/devwithzain/main/code.gif" alt="Coding GIF" width="400px"/>
+  <!-- Developer-themed moving image -->
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer at Work" width="600px"/>
 </div>
 
 ---
