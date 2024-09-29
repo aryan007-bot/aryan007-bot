@@ -1,14 +1,12 @@
-<!-- Moving Name with Color Animation-like Effect -->
+<!-- Simple Name Image -->
 <div align="center">
-  <h1>
-    <img src="https://raw.githubusercontent.com/aryan007-bot/anime_vault/main/path/to/your/animated_text.gif" alt="Aryan Dagar" width="600px" />
-  </h1>
-
-  <!-- Enhanced Description Line with Emojis -->
-  <p style="font-size: 24px; font-weight: bold; color:#00FFCC;">
-    👨‍💻 A Frontend Developer 💻 transitioning into Backend ⚙️, mastering DevOps 🛠️, and diving into Blockchain development 🔗!
-  </p>
+  <img src="https://raw.githubusercontent.com/aryan007-bot/anime_vault/main/path/to/your/simple_name_image.png" alt="Aryan Dagar" width="600px" />
 </div>
+
+<!-- Enhanced Description Line with Emojis -->
+<p align="center" style="font-size: 24px; font-weight: bold; color:#00FFCC;">
+  👨‍💻 A Frontend Developer 💻 transitioning into Backend ⚙️, mastering DevOps 🛠️, and diving into Blockchain development 🔗!
+</p>
 
 ---
 
