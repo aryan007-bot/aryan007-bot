@@ -1,30 +1,20 @@
-<!-- Moving Name with Color Animation -->
+<!-- Moving Name with Color Animation-like Effect -->
 <div align="center">
   <h1>
-    <a href="" style="text-decoration:none; font-size:48px; font-weight: bold;">
-      <span style="display:inline-block; animation:slide 5s infinite; background: linear-gradient(270deg, #ffcc00, #ff66cc, #66ccff); background-size: 400% 400%; color: white; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Hi, I'm Aryan Dagar!</span>
-    </a>
+    <img src="https://raw.githubusercontent.com/aryan007-bot/anime_vault/main/path/to/your/animated_text.gif" alt="Aryan Dagar" width="600px"/>
   </h1>
-  
-  <style>
-    @keyframes slide {
-      0% { transform: translateX(-200%); }
-      50% { transform: translateX(0%); }
-      100% { transform: translateX(200%); }
-    }
-  </style>
 
   <!-- Enhanced Description Line -->
-  <p style="font-size: 22px; color:#00FFCC; text-shadow: 1px 1px 4px #00FFCC;">
+  <p style="font-size: 24px; font-weight: bold; color:#00FFCC;">
     🚀 A Frontend Developer diving deep into Backend, mastering DevOps, and preparing to revolutionize with Blockchain technology!
   </p>
 </div>
 
 ---
 
+<!-- Developer-Themed Image -->
 <div align="center">
-  <!-- Developer-Themed Image -->
-  <img src="https://raw.githubusercontent.com/aryan007-bot/anime_vault/main/path/to/your/image.gif" alt="Developer Workspace" width="600px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+  <img src="https://raw.githubusercontent.com/aryan007-bot/anime_vault/main/path/to/your/developer-image.gif" alt="Developer Workspace" width="600px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
 </div>
 
 ---
@@ -36,7 +26,7 @@
 - 👨‍💻 Passionate about **Frontend Development**, focused on creating responsive and beautiful web apps.
 - 🎨 Enjoys **Graphic Design** and **Gaming** as hobbies.
 - 📫 How to reach me: **dagararyan947@gmail.com**
-  
+
   You can also connect with me on [Instagram](https://www.instagram.com/_aryan_dagar001?igsh=MWlmcjR2Y3pxYWNhaA==).
 
 ---
