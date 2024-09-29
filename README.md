@@ -14,7 +14,8 @@
 
 <!-- Developer-Themed Animated Image -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aryan007-bot/anime_vault/main/path/to/your/developer_image.png" alt="Integrated Developer Theme" width="600px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+   ![68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d38383](https://github.com/user-attachments/assets/b305c834-9c09-4b8b-9d31-e08d98202dc6)
+
 </div>
 
 ---
