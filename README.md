@@ -1,27 +1,20 @@
-<!-- Simple Name Text with Animation -->
+<!-- Simple Name Text -->
 <div align="center">
-  <h1 style="font-size: 48px; font-weight: bold; color: #00FFCC; animation: glow 1s infinite alternate;">
+  <h1 style="font-size: 48px; font-weight: bold; color: #00FFCC;">
     👨‍💻 Aryan Dagar 💻
   </h1>
 </div>
 
-<style>
-@keyframes glow {
-  0% { text-shadow: 0 0 5px #00FFCC, 0 0 10px #00FFCC, 0 0 20px #00FFCC; }
-  100% { text-shadow: 0 0 10px #00FFCC, 0 0 20px #00FFCC, 0 0 30px #00FFCC; }
-}
-</style>
-
-<!-- Enhanced Description Line with Emojis and Color -->
-<p align="center" style="font-size: 24px; font-weight: bold; color:#00FFCC; animation: glow 1s infinite alternate;">
+<!-- Enhanced Description Line with Emojis -->
+<p align="center" style="font-size: 24px; font-weight: bold; color:#00FFCC;">
   A Frontend Developer 💻 transitioning into Backend ⚙️, mastering DevOps 🛠️, and diving into Blockchain development 🔗!
 </p>
 
 ---
 
-<!-- Developer-Themed Animated Image (Blockchain, DevOps, Web Development) -->
+<!-- Developer-Themed Animated Image -->
 <div align="center">
-  <img src="https://your-moving-image-url.gif" alt="Integrated Developer Theme" width="600px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="https://raw.githubusercontent.com/aryan007-bot/anime_vault/main/path/to/your/developer_image.png" alt="Integrated Developer Theme" width="600px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 </div>
 
 ---
@@ -81,5 +74,4 @@
 
 <div align="center">
   <h3>💡 “Strive not to be a success, but rather to be of value.”</h3>
-  <h4>🌟 Aim high, keep learning, and stay curious!</h4>
 </div>
