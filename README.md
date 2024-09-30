@@ -69,4 +69,4 @@
 
 <div align="center">
   <h3>💡 “Strive not to be a success, but rather to be of value.”</h3>
-</div>
+</div> 
