@@ -25,7 +25,7 @@
 - 🎓 Studying **Computer Science**.
 - 👨‍💻 Passionate about **Frontend Development**, focused on creating responsive and beautiful web apps.
 - 🎨 Enjoys **Graphic Design** and **Gaming** as hobbies.
-- 📫 How to reach me: **dagararyan947@gmail.com**
+- 📫 How to reach me: **aryandagar715@gmail.com**
 
 ---
 
