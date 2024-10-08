@@ -48,6 +48,12 @@
 
 ---
 
+## 🚀 Portfolio
+
+Check out my portfolio for a more detailed overview of my work: [Aryan Dagar's Portfolio](https://portfolio-two-roan-46.vercel.app/)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -69,4 +75,4 @@
 
 <div align="center">
   <h3>💡 “Strive not to be a success, but rather to be of value.”</h3>
-</div> 
+</div>
