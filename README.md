@@ -50,7 +50,7 @@
 
 ## 🚀 Portfolio
 
-Check out my portfolio for a more detailed overview of my work: [Aryan Dagar's Portfolio](https://portfolio-two-roan-46.vercel.app/)
+Check out my portfolio for a more detailed overview of my work: [Aryan Dagar's Portfolio](https://portfolio2-0-one-indol.vercel.app/)
 
 ---
 
