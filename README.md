@@ -7,7 +7,7 @@
 
 <!-- Enhanced Description Line with Emojis -->
 <p align="center" style="font-size: 26px; font-weight: bold; color: #00FFCC; text-shadow: 1px 1px 5px #000;">
-  🌟 **Innovative Frontend Developer** 💻 | **Aspiring Backend Engineer** ⚙️ | **DevOps Enthusiast** 🛠️ | **Blockchain Innovator** 🔗
+  🌟 <strong>Innovative Frontend Developer</strong> 💻 | <strong>Aspiring Backend Engineer</strong> ⚙️ | <strong>DevOps Enthusiast</strong> 🛠️ | <strong>Blockchain & Solana Developer</strong> 🔗
 </p>
 
 ---
@@ -21,7 +21,7 @@
 
 ## 🙋‍♂️ About Me
 - 🌱 Currently learning **Backend Development** and **DevOps**.
-- 🔗 Interested in **Blockchain Development** for future projects.
+- 🔗 Interested in **Blockchain Development**, especially with **Solana**.
 - 🎓 Studying **Computer Science**.
 - 👨‍💻 Passionate about **Frontend Development**, focused on creating responsive and beautiful web apps.
 - 🎨 Enjoys **Graphic Design** and **Gaming** as hobbies.
@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Solana-00FFA3?style=flat&logo=solana&logoColor=black"/>
 </p>
 
 ---
@@ -75,4 +76,4 @@ Check out my portfolio for a more detailed overview of my work: [Aryan Dagar's P
 
 <div align="center">
   <h3>💡 “Strive not to be a success, but rather to be of value.”</h3>
-</div>
+</div>  
